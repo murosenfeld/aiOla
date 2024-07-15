@@ -1,5 +1,5 @@
 {
-  "name": "weski-web",
+  "name": "aiola-web",
   "version": "1.0.0",
   "description": "Automated software testing with Playwright",
   "main": "index.js",
